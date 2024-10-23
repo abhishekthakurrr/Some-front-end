@@ -1,3 +1,6 @@
-# Some_front-end_projects.
+#dicnory.
 
-using  html , CSS and javaScript.
+Fetch API for HTTP requests.
+HTML for the structure.
+CSS for styling.
+JavaScript for functionality and DOM manipulation.
