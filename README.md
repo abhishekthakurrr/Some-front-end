@@ -1,5 +1,4 @@
-#dicnory.
-
+DICTIONARY
 Fetch API for HTTP requests.
 HTML for the structure.
 CSS for styling.
